@@ -1,0 +1,4 @@
+# Speech-Emotion-Recognition
+Emotions are tremendously vital in human mental health. It is a means of communicating one's point of view or emotional condition to others. Speech Emotion Recognition (SER) is the extraction of the speaker's emotional state from his or her speech signal.
+In this study, I used TESS Toronto emotion speech dataset sample data. It primarily encompasses seven emotions: angry, disgusted, fearful, pleased, neutral, pleasant surprise, and sad.
+I created an LSTM model with four hidden layers for classification. The model has a validation accuracy of 82.14%, which appears to be satisfactory. Because a couple of the speech recordings are of low quality and some are unclear, I believe the model is doing better. The accuracy may be improved by enhancing the dataset and pre-processing the audio data.
